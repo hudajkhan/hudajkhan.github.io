@@ -1,2 +1,2 @@
 # hudajkhan.github.io
-Blogging using Jekyll
+Using Jekyll to review professional projects and output
