@@ -9,7 +9,7 @@ layout: page
 
 <div>I have worked in software development at Cornell University since 2010. I am interested in the design and architecture of linked data and semantic web applications, specifically in: (a) supporting usability through effective interface design and (b) enabling flexible interplay between different components and/or technologies. I have participated in the following linked data related projects: Datastar, VIVO, EarthCollab, the Linked Data For Libraries Labs grant, and Linked Data for Production: Pathways to Implementation.  I currently help with the direction of the discovery area of the Linked Data for Production: Closing the Loop grant.</div>
 
-<div> I have contributed to diffrent projects that employ Blacklight and GeoBlacklight. I am a developer on the Cornell University Geospatial Information Repository (CUGIR) project. </div>
+<div> I have contributed to different projects that employ Blacklight and GeoBlacklight. I am a developer on the Cornell University Geospatial Information Repository (CUGIR) project. </div>
 
 <div>I have a joint Ph.D. in Computer Science and Cognitive Science from the University of Colorado at Boulder.</div>
 
