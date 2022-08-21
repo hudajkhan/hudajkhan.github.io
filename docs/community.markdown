@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Participation in groups and committees
+title: Groups and Committees
 permalink: /community/
 ---
 

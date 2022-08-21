@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User research and usability work
+title: Usability
 permalink: /userresearch/
 ---
 
