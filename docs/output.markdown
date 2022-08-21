@@ -9,7 +9,7 @@ permalink: /output/
 
 <li>Khan, Huda, Steven Folsom and Tim Worrall. "A review of linked data sources for information about bibliographic works". 2022. Technical report. https://hdl.handle.net/1813/111407, </li>
 
-<li>Khan, Huda, Claire DeMarco, Christine Fernsebner Eslao, Steven Folsom, Jason Kovari, Simeon Warner, Tim Worrall, and Astrid Usong. 2022. “Using Linked Data Sources to Enhance Catalog Discovery”. KULA: Knowledge Creation, Dissemination, and Preservation Studies 6 (3):1-26. https://doi.org/10.18357/kula.229.</li>
+<li>Khan, Huda, Claire DeMarco, Christine Fernsebner Eslao, Steven Folsom, Jason Kovari, Simeon Warner, Tim Worrall, and Astrid Usong. 2022. "Using Linked Data Sources to Enhance Catalog Discovery". KULA: Knowledge Creation, Dissemination, and Preservation Studies 6 (3):1-26. https://doi.org/10.18357/kula.229.</li>
 
 <li>Mayernik, M.S., Gross, M.B., Corson-Rikert, J., Daniels, M.D., Johns, E.M., Khan, H., Maull, K., Rowan, L.R. and Stott, D., 2016. Building Geoscience Semantic Web Applications Using Established Ontologies. Data Science Journal, 15, p.11. DOI: http://doi.org/10.5334/dsj-2016-011 </li>
 
