@@ -11,7 +11,7 @@ permalink: /output/
 
 <li>Khan, Huda, Claire DeMarco, Christine Fernsebner Eslao, Steven Folsom, Jason Kovari, Simeon Warner, Tim Worrall, and Astrid Usong. 2022. "Using Linked Data Sources to Enhance Catalog Discovery". KULA: Knowledge Creation, Dissemination, and Preservation Studies 6 (3):1-26. https://doi.org/10.18357/kula.229.</li>
 
-<li>Mayernik, M.S., Gross, M.B., Corson-Rikert, J., Daniels, M.D., Johns, E.M., Khan, H., Maull, K., Rowan, L.R. and Stott, D., 2016. Building Geoscience Semantic Web Applications Using Established Ontologies. Data Science Journal, 15, p.11. DOI: http://doi.org/10.5334/dsj-2016-011 </li>
+<li>Mayernik, M.S., Gross, M.B., Corson-Rikert, J., Daniels, M.D., Johns, E.M., Khan, H., Maull, K., Rowan, L.R. and Stott, D., 2016. "Building Geoscience Semantic Web Applications Using Established Ontologies". Data Science Journal, 15, p.11. DOI: http://doi.org/10.5334/dsj-2016-011 </li>
 
 <li> Wright, Sarah J., Wendy A. Kozlowski, Dianne Dietrich, Huda J. Khan, Gail S. Steinhart, and Leslie McIntosh. "Using data curation profiles to design the datastar dataset registry." D-Lib Magazine 19, no. 7/8 (2013): 37-49. </li>
 
@@ -59,7 +59,7 @@ permalink: /output/
 <li> Khan, Huda, Steven Folsom, Jason Kovari, Dean Krafft, Simeon Warner, and Michelle Futornick. 2018. "The SHACL Awakens: A funny thing happened on the way to implementing a metadata application profile in Vitro". VIVO conference 2018. https://doi.org/10.6084/m9.figshare.6463277.v1 </li>
 <li> Woods, Andrew and Huda Khan. 2018. "VIVO Community Development - Aligning Efforts". VIVO conference 2018.  https://doi.org/10.6084/m9.figshare.6465161.v1 </li>
 
-<li> Khan, Huda, Violeta Ilik, Michael Conlon,  and John Fereira. 2017. "Livin’ La VIVO Loca". VIVO conference 2017. https://doi.org/10.6084/m9.figshare.5277172.v3 </li>
+<li> Khan, Huda, Violeta Ilik, Michael Conlon,  and John Fereira. 2017. "Livin' La VIVO Loca". VIVO conference 2017. https://doi.org/10.6084/m9.figshare.5277172.v3 </li>
 <li> Khan, Huda, Benjamin Gross,  Matthew Mayernik, Brooks Snyder, Dean Krafft, Sandy Payette, Erica Johns, John Allison, Don Stott, Keith Maull, Matt Mayernik, Mike Daniels, Linda Rowan, Fran Boler, and Chuck Meertens. 2017. "Using VIVO to represent and explore linkages between research, instruments, and platforms". VIVO 2017 conference. https://doi.org/10.6084/m9.figshare.5277184.v1 </li>
 <li> Khan, Huda. 2017. "When Vitro goes rogue: The VitroLib application for library cataloging using linked data."  VIVO conference 2017. https://doi.org/10.6084/m9.figshare.5277187.v1 </li>
 
