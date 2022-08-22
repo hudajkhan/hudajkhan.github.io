@@ -34,7 +34,10 @@ plugins:
 
 # Page header
 header_pages:
-  - docs/projects.md
+  - projects.md
+  - output.md
+  - userresearch.md
+  - community.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
