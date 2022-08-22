@@ -31,11 +31,10 @@ github_username:  hudajkhan
 theme: minima
 plugins:
   - jekyll-feed
+
+# Page header
 header_pages:
-  - projects.markdown
-  - output.markdown
-  - userresearch.markdown
-  - community.markdown
+  - projects.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
