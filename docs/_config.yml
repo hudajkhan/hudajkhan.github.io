@@ -32,10 +32,10 @@ theme: minima
 plugins:
   - jekyll-feed
 header_pages:
-  - projects.md
-  - output.md
-  - userresearch.md
-  - community.md
+  - projects.html
+  - output.html
+  - userresearch.html
+  - community.html
 
 # Exclude from processing.
 # The following items will not be processed, by default.
