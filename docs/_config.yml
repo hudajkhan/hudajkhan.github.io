@@ -33,11 +33,11 @@ plugins:
   - jekyll-feed
 
 # Page header
-header_pages:
-  - projects.md
-  - output.md
-  - userresearch.md
-  - community.md
+#header_pages:
+#  - projects.md
+#  - output.md
+#  - userresearch.md
+#  - community.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
